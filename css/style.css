@@ -114,8 +114,8 @@ h4 {
   justify-content: space-between;
 }
 
-.baner {
-  background: url(../img/baner.png) center top / cover no-repeat;
+.banner {
+  background: url(../img/banner.jpg) center top / cover no-repeat;
   min-height: 700px;
 }
 
@@ -212,7 +212,7 @@ h4 {
 }
 
 
-/*-----BANER-----*/
+/*-----BANNER-----*/
 .rounds-wrap {
   height: 200px;
   width: 250px;
